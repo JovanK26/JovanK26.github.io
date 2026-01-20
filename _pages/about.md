@@ -29,3 +29,5 @@ latest_posts:
 
 My name is Jovan and I am a first year PhD student at Boston University in the Computer Science department advised by Professor George Kollios.
 
+I finished my undergraduate studies at New York University Abu Dhabi with a major in Computer Science and a minor in Applied Mathematics in 2025.
+
